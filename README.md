@@ -6,6 +6,8 @@
 - ✨"Add a little magic in your life" 
 ---
 [![](https://visitcount.itsvg.in/api?id=jessicatroilo&icon=7&color=8)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jessica-troilo-dev) 
+
 <!---
 jessicatroilo/jessicatroilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,9 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jessicatroilo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jessica-troilo-dev) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
