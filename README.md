@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessicatroilo
 - 👀 I’m interested in gaming, learning code, sew, health...
-- 🌱 I’m currently learning how to be a dev with O'Clock School
+- 🌱 Dev Full Stack - Eco design !
 - 📫 How to reach me by mail at jessica.troilo25@gmail.com
 - ⚡Potterhead
 - ✨"Add a little magic in your life" 
